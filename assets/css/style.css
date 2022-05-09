@@ -1,0 +1,16 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+    color: white;
+}
+/* Navbar */
+.bgcolor.scrolled{
+    background-color: #0dcaf0;
+}
+.card img{
+    height: 9.375rem;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
