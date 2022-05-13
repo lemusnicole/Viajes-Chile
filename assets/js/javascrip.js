@@ -1,6 +1,6 @@
 // Cambio de color NavBar
 $(window).scroll(function(){
-    $("nav").toggleClass("scrolled",$(this).scrollTop()>50);
+  $("nav").toggleClass("scrolled",$(this).scrollTop()>50);
 });
 //Tooltips
 var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
